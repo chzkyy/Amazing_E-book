@@ -1,0 +1,31 @@
+.bg-blue {
+    background-color: #AFC9E9;
+}
+
+.bg-yellow {
+    background-color: #FADF54
+}
+
+.title {
+    font-size: 62px;
+}
+
+.bulet {
+    border-radius: 100%; 
+    width: 500px; 
+    height: 500px; 
+    border: 15px solid #AFC9E9;
+}
+
+.text-underline{
+    text-decoration: underline;
+}
+
+.active {
+    font-weight: 800;
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+}
